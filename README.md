@@ -4,9 +4,9 @@ Web scraping is an automatic method to obtain large amounts of data from website
 
 ## Data 
 
-<img src="assets/data.jpg" width="600" height="300">
+<img src="assets/data.png" width="600" height="300">
 
 
 ## Plot
 
-<img src="assets/plot.jpg" width="600" height="300">
+<img src="assets/plot.png" width="600" height="300">
