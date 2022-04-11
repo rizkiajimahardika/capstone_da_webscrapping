@@ -16,6 +16,6 @@ After that, we do the visualization
 
 ## Conclusion
 
-The chart illustrates that the dollar to rupiah exchange rate has an upward trend from October 2021-April 2022. Although in March 2022 there was a decline in the exchange rate, the exchange rate rose again in April 2022. The conclusion is the dollar exchange rate in October 2021. - April 2022 has increased.
+The chart illustrates that the dollar to rupiah exchange rate has an upward trend from October 2021-April 2022. Although in March 2022 there was a decline in the exchange rate, the exchange rate rise again in April 2022. The conclusion is the dollar exchange rate in October 2021. - April 2022 has increased.
 
 The strengthening of the exchange rate of the dollar against the rupiah can have several negative impacts. The government must make efforts so that the value of the rupiah can strengthen again against the dollar exchange rate.
