@@ -12,7 +12,7 @@ After scraping, I changed it to a dataframe and I made a groupby based on the mo
 ## Plot
 After that, we do the visualization
 
-<img src="assets/plot.png" width="500" height="300">
+<img src="assets/plot.png" width="600" height="300">
 
 ## Conclusion
 
