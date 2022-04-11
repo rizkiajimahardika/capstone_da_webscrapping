@@ -6,13 +6,13 @@ Web scraping is an automatic method to obtain large amounts of data from website
 
 After scraping, I changed it to a dataframe and I made a groupby based on the month and the average exchange rate for each month
 
-<img src="assets/data.png" width="200" height="300">
+<img src="assets/data.png" width="200" height="200">
 
 
 ## Plot
 After that, we do the visualization
 
-<img src="assets/plot.png" width="600" height="300">
+<img src="assets/plot.png" width="500" height="300">
 
 ## Conclusion
 
